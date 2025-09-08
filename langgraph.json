@@ -1,0 +1,8 @@
+{
+     "dependencies": ["."],
+    "graphs": {
+        "news_chatbot" : "./main.py:graph"
+    },
+    "env": "./env"
+}
+
